@@ -1,5 +1,5 @@
-import {mountAdventure} from './game.js?v=4';
-import {freshState,readState,saveState,remember,dailyQueue,seededShuffle,points,stars,markActivity,audioPath} from './engine.js?v=4';
+import {mountAdventure} from './game.js?v=5';
+import {freshState,readState,saveState,remember,dailyQueue,seededShuffle,points,stars,markActivity,audioPath} from './engine.js?v=5';
 const scenarios=[
 {id:'auto',title:'Catch an auto',emoji:'🛺',tint:'#f8edc7',description:'Your first ride. A few turns. A little Kannada.',parts:['Hop in & find your way','Arrive & pay'],finish:'You’ve arrived. Nicely done!',character:'Your auto driver'},
 {id:'breakfast',title:'Order breakfast',emoji:'☕',tint:'#f1e3d6',description:'Hot dosas, filter coffee, and the right words.',parts:['At the counter','Make it your way'],finish:'Breakfast is served!',character:'At the darshini'},
@@ -60,5 +60,5 @@ else if(b.id==='check-assembly'){finishAnswer(s.selected.length===p.tokens.lengt
 });
 $('#reset').addEventListener('click',()=>{if(confirm('Reset your adventure, practice scores, favourites, and phrase progress on this browser?')){disposeAdventure?.();disposeAdventure=null;try{storage?.removeItem('easy-kannada-adventure-v2');}catch{}state=freshState();persist();route();toast('A fresh start. Your progress has been reset.');}});
 window.addEventListener('hashchange',route);
-async function boot(){try{const r=await Promise.all(['data/phrases.json','data/digits.json'].map(async u=>{const res=await fetch(u);if(!res.ok)throw Error(u);return res.json();}));[phrases,digits]=r;route();if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw.js?v=4').catch(()=>{});}catch{main.innerHTML='<section class="complete"><h1>Let’s try that again.</h1><p>The phrases could not load. Reconnect, then reload this page.</p><button class="primary" onclick="location.reload()">Reload</button></section>';}}
+async function boot(){try{const r=await Promise.all(['data/phrases.json','data/digits.json'].map(async u=>{const res=await fetch(u);if(!res.ok)throw Error(u);return res.json();}));[phrases,digits]=r;route();if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw.js?v=5').catch(()=>{});}catch{main.innerHTML='<section class="complete"><h1>Let’s try that again.</h1><p>The phrases could not load. Reconnect, then reload this page.</p><button class="primary" onclick="location.reload()">Reload</button></section>';}}
 boot();

@@ -3,7 +3,7 @@
 <desc id="desc">A colourful overhead neighbourhood with a filter coffee cafe, vegetable market, home, metro station, shady park and wide footpaths connected by a crossroad.</desc>
 <defs>
  <pattern id="grass" width="64" height="64" patternUnits="userSpaceOnUse"><rect width="64" height="64" fill="#d8dfaa"/><path d="m8 13 2-5 3 5m36 34 2-5 3 5" fill="none" stroke="#c2cc94" stroke-width="2" opacity=".45"/><circle cx="36" cy="18" r="1.4" fill="#eef0ca"/><circle cx="15" cy="46" r="1" fill="#b8c58a"/></pattern>
- <pattern id="pavers" width="36" height="28" patternUnits="userSpaceOnUse"><rect width="36" height="28" fill="#eedfc0"/><path d="M0 0h36v28M18 0v14M0 14h36" stroke="#ddcda9" stroke-width="1" opacity=".7"/></pattern>
+ <pattern id="pavers" width="36" height="28" patternUnits="userSpaceOnUse"><rect width="36" height="28" fill="#eedfc0"/><path d="M0 0h36v28M18 0v14M0 14h36" fill="none" stroke="#ddcda9" stroke-width="1" opacity=".7"/></pattern>
  <pattern id="roof" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="#c87354"/><path d="M0 8h24M0 20h24M12 8v12" fill="none" stroke="#b26048" stroke-width="2"/></pattern>
  <pattern id="awn" width="48" height="48" patternUnits="userSpaceOnUse"><rect width="48" height="48" fill="#fff1cd"/><rect width="24" height="48" fill="#df765a"/></pattern>
  <filter id="shadow" x="-30%" y="-30%" width="170%" height="180%"><feDropShadow dx="0" dy="7" stdDeviation="5" flood-color="#435f45" flood-opacity=".16"/></filter>
@@ -99,4 +99,4 @@
 <g fill="none" stroke="#7c987b" stroke-width="3" opacity=".5"><path d="M198 66q7-10 14 0 7-10 14 0M1152 89q7-10 14 0 7-10 14 0"/></g>
 <!-- Hand painted corner detail. -->
 <g transform="translate(37 611)"><path d="M-8 7h69" stroke="#c0b895" stroke-width="3"/><rect width="55" height="19" rx="5" fill="#d4b67c"/><path d="M7 4h41M7 10h41" stroke="#eed49a" stroke-width="3"/><path d="M8 19v6m39-6v6" stroke="#6b8166" stroke-width="4"/></g>
-</svg>
+<g transform="translate(510 425)"><ellipse cy="6" rx="31" ry="20" fill="#809165" opacity=".2"/><ellipse rx="28" ry="19" fill="#b08c58"/><ellipse cy="-3" rx="28" ry="19" fill="#efcd8c"/><rect x="-44" y="-12" width="14" height="23" rx="5" fill="#77916a"/><rect x="31" y="-12" width="14" height="23" rx="5" fill="#77916a"/></g></svg>
