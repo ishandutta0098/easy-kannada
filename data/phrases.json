@@ -1,0 +1,1019 @@
+[
+  {
+    "id": "auto-01",
+    "scenario": "auto",
+    "english": "Anna, please go to Indiranagar.",
+    "kannada": "ಅಣ್ಣ, ಇಂದಿರಾನಗರಕ್ಕೆ ಹೋಗಿ.",
+    "roman": "Anna, Indiranagarakke hogi.",
+    "hint": "Hogi is the polite form of go. Anna means elder brother, a familiar way to address a man; you may omit it.",
+    "context": "You get into the auto and tell the driver your destination.",
+    "sourceUrls": [
+      "https://kannadakaliyuva.wordpress.com/2017/06/13/lesson-5-buscab-conversation/",
+      "https://kannadaguru.wordpress.com/day-4-directions-traffic-police-conversation-autobus/"
+    ],
+    "tokens": [
+      "Anna,",
+      "Indiranagarakke",
+      "hogi."
+    ]
+  },
+  {
+    "id": "auto-02",
+    "scenario": "auto",
+    "english": "Anna, the OTP is 4, 8, 2, 6.",
+    "kannada": "ಅಣ್ಣ, ಓಟಿಪಿ ನಾಲ್ಕು, ಎಂಟು, ಎರಡು, ಆರು.",
+    "roman": "Anna, OTP naalku, entu, eradu, aaru.",
+    "hint": "Read this fictional ride code one digit at a time: naalku = 4, entu = 8, eradu = 2, aaru = 6. OTP is an English abbreviation.",
+    "context": "Your booked driver asks for the fictional ride-start code 4826.",
+    "sourceUrls": [
+      "https://learn101.org/kannada_numbers.php"
+    ],
+    "tokens": [
+      "Anna, OTP",
+      "naalku,",
+      "entu,",
+      "eradu,",
+      "aaru."
+    ]
+  },
+  {
+    "id": "auto-03",
+    "scenario": "auto",
+    "english": "Anna, turn left.",
+    "kannada": "ಅಣ್ಣ, ಎಡಕ್ಕೆ ತಿರುಗಿ.",
+    "roman": "Anna, edakke tirugi.",
+    "hint": "Eda means left; edakke means to the left. Tirugi is a polite request to turn.",
+    "context": "The next turn leads to the left-hand road you need.",
+    "sourceUrls": [
+      "https://kannadaguru.wordpress.com/day-4-directions-traffic-police-conversation-autobus/"
+    ],
+    "tokens": [
+      "Anna,",
+      "edakke",
+      "tirugi."
+    ]
+  },
+  {
+    "id": "auto-04",
+    "scenario": "auto",
+    "english": "Anna, turn right.",
+    "kannada": "ಅಣ್ಣ, ಬಲಕ್ಕೆ ತಿರುಗಿ.",
+    "roman": "Anna, balakke tirugi.",
+    "hint": "Bala means right; balakke means to the right. Left and right are also often used as loanwords.",
+    "context": "Your route takes the right-hand road at the junction.",
+    "sourceUrls": [
+      "https://kannadaguru.wordpress.com/day-4-directions-traffic-police-conversation-autobus/"
+    ],
+    "tokens": [
+      "Anna,",
+      "balakke",
+      "tirugi."
+    ]
+  },
+  {
+    "id": "auto-05",
+    "scenario": "auto",
+    "english": "Please go straight.",
+    "kannada": "ನೇರವಾಗಿ ಹೋಗಿ.",
+    "roman": "Neravaagi hogi.",
+    "hint": "Neravaagi means straight ahead.",
+    "context": "The driver reaches a junction, but your route continues ahead.",
+    "sourceUrls": [
+      "https://kannadakaliyuva.wordpress.com/2017/06/13/lesson-5-buscab-conversation/",
+      "https://kannadaguru.wordpress.com/day-4-directions-traffic-police-conversation-autobus/"
+    ],
+    "tokens": [
+      "Neravaagi",
+      "hogi."
+    ]
+  },
+  {
+    "id": "auto-06",
+    "scenario": "auto",
+    "english": "Please go a little slowly.",
+    "kannada": "ಸ್ವಲ್ಪ ನಿಧಾನವಾಗಿ ಹೋಗಿ.",
+    "roman": "Swalpa nidhaanavaagi hogi.",
+    "hint": "Swalpa means a little; nidhaanavaagi means slowly.",
+    "context": "You would be more comfortable at a slower speed.",
+    "sourceUrls": [
+      "https://kannadakaliyuva.wordpress.com/2017/06/13/lesson-5-buscab-conversation/",
+      "https://kannadaguru.wordpress.com/day-4-directions-traffic-police-conversation-autobus/"
+    ],
+    "tokens": [
+      "Swalpa",
+      "nidhaanavaagi",
+      "hogi."
+    ]
+  },
+  {
+    "id": "auto-07",
+    "scenario": "auto",
+    "english": "Please wait a little.",
+    "kannada": "ಸ್ವಲ್ಪ ಕಾಯಿರಿ.",
+    "roman": "Swalpa kaayiri.",
+    "hint": "Kaayiri is a polite request to wait.",
+    "context": "You need a moment to find the entrance before continuing.",
+    "sourceUrls": [
+      "https://kannadakaliyuva.wordpress.com/2017/06/13/lesson-5-buscab-conversation/"
+    ],
+    "tokens": [
+      "Swalpa",
+      "kaayiri."
+    ]
+  },
+  {
+    "id": "auto-08",
+    "scenario": "auto",
+    "english": "Anna, stop here.",
+    "kannada": "ಅಣ್ಣ, ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ.",
+    "roman": "Anna, illi nillisi.",
+    "hint": "Illi means here. Nillisi asks someone to stop a vehicle; you may hear the shorter nilsi.",
+    "context": "You have arrived at a suitable place to get down.",
+    "sourceUrls": [
+      "https://kannadakaliyuva.wordpress.com/2017/06/13/lesson-5-buscab-conversation/"
+    ],
+    "tokens": [
+      "Anna,",
+      "illi",
+      "nillisi."
+    ]
+  },
+  {
+    "id": "auto-09",
+    "scenario": "auto",
+    "english": "How much is the fare?",
+    "kannada": "ಎಷ್ಟು ಆಯಿತು?",
+    "roman": "Eshtu aayitu?",
+    "hint": "Eshtu asks how much; aayitu is often shortened to aaytu in speech.",
+    "context": "The trip is over and you need to settle the fare.",
+    "sourceUrls": [
+      "https://kannadakaliyuva.wordpress.com/2017/06/13/lesson-5-buscab-conversation/",
+      "https://prayanks.github.io/kannada-course/lessons/0003-how-much-eshtu-numbers.html"
+    ],
+    "tokens": [
+      "Eshtu",
+      "aayitu?"
+    ]
+  },
+  {
+    "id": "auto-10",
+    "scenario": "auto",
+    "english": "Can I pay by UPI?",
+    "kannada": "ಯುಪಿಐ ಮೂಲಕ ಕೊಡಬಹುದಾ?",
+    "roman": "UPI moolaka kodabahudaa?",
+    "hint": "Moolaka means by or through. UPI is an English payment abbreviation.",
+    "context": "Before paying, check whether the driver accepts UPI.",
+    "sourceUrls": [
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf"
+    ],
+    "tokens": [
+      "UPI moolaka",
+      "kodabahudaa?"
+    ]
+  },
+  {
+    "id": "breakfast-01",
+    "scenario": "breakfast",
+    "english": "Please give me two idlis.",
+    "kannada": "ಎರಡು ಇಡ್ಲಿ ಕೊಡಿ.",
+    "roman": "Eradu idli kodi.",
+    "hint": "Eradu means two; kodi is a polite request to give.",
+    "context": "You want a small idli breakfast at the counter.",
+    "sourceUrls": [
+      "https://learnkannada.site/blog/ordering-food-in-kannada",
+      "https://learn101.org/kannada_numbers.php"
+    ],
+    "tokens": [
+      "Eradu",
+      "idli",
+      "kodi."
+    ]
+  },
+  {
+    "id": "breakfast-02",
+    "scenario": "breakfast",
+    "english": "Please give me one dosa.",
+    "kannada": "ಒಂದು ದೋಸೆ ಕೊಡಿ.",
+    "roman": "Ondu dose kodi.",
+    "hint": "Ondu means one. Kannada dose sounds closer to doh-say than doh-sa.",
+    "context": "Your friend would like a dosa with breakfast.",
+    "sourceUrls": [
+      "https://learnkannada.site/blog/ordering-food-in-kannada",
+      "https://learn101.org/kannada_numbers.php"
+    ],
+    "tokens": [
+      "Ondu",
+      "dose",
+      "kodi."
+    ]
+  },
+  {
+    "id": "breakfast-03",
+    "scenario": "breakfast",
+    "english": "Please give me one coffee.",
+    "kannada": "ಒಂದು ಕಾಫಿ ಕೊಡಿ.",
+    "roman": "Ondu kaafi kodi.",
+    "hint": "Kaafi means coffee. For tea, replace it with chahaa (ಚಹಾ).",
+    "context": "You are ready to order a hot drink.",
+    "sourceUrls": [
+      "https://learnkannada.site/blog/ordering-food-in-kannada",
+      "https://learn101.org/kannada_numbers.php"
+    ],
+    "tokens": [
+      "Ondu",
+      "kaafi",
+      "kodi."
+    ]
+  },
+  {
+    "id": "breakfast-04",
+    "scenario": "breakfast",
+    "english": "Please give me some water.",
+    "kannada": "ಸ್ವಲ್ಪ ನೀರು ಕೊಡಿ.",
+    "roman": "Swalpa neeru kodi.",
+    "hint": "Neeru means water; ee is a long vowel.",
+    "context": "You need a drink of water with your food.",
+    "sourceUrls": [
+      "https://learnkannada.site/blog/ordering-food-in-kannada"
+    ],
+    "tokens": [
+      "Swalpa",
+      "neeru",
+      "kodi."
+    ]
+  },
+  {
+    "id": "breakfast-05",
+    "scenario": "breakfast",
+    "english": "Please add less sugar.",
+    "kannada": "ಸಕ್ಕರೆ ಕಡಿಮೆ ಹಾಕಿ.",
+    "roman": "Sakkare kadime haaki.",
+    "hint": "Sakkare is sugar; kadime is less; haaki means put or add politely.",
+    "context": "The server is preparing your coffee and you prefer it less sweet.",
+    "sourceUrls": [
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf",
+      "https://learnkannada.site/blog/ordering-food-in-kannada"
+    ],
+    "tokens": [
+      "Sakkare",
+      "kadime",
+      "haaki."
+    ]
+  },
+  {
+    "id": "breakfast-06",
+    "scenario": "breakfast",
+    "english": "Please make it less spicy.",
+    "kannada": "ಖಾರ ಕಡಿಮೆ ಮಾಡಿ.",
+    "roman": "Khaara kadime maadi.",
+    "hint": "Khaara refers to spice heat, not temperature. Maadi means please do or make.",
+    "context": "You want mild food rather than a fiery breakfast.",
+    "sourceUrls": [
+      "https://learnkannada.site/blog/ordering-food-in-kannada"
+    ],
+    "tokens": [
+      "Khaara",
+      "kadime",
+      "maadi."
+    ]
+  },
+  {
+    "id": "breakfast-07",
+    "scenario": "breakfast",
+    "english": "What is available?",
+    "kannada": "ಏನು ಇದೆ?",
+    "roman": "Enu ide?",
+    "hint": "Enu means what; ide means there is or is available here.",
+    "context": "You cannot see what is ready at the breakfast counter.",
+    "sourceUrls": [
+      "https://learnkannada.site/blog/ordering-food-in-kannada"
+    ],
+    "tokens": [
+      "Enu",
+      "ide?"
+    ]
+  },
+  {
+    "id": "breakfast-08",
+    "scenario": "breakfast",
+    "english": "Please pack it to take away.",
+    "kannada": "ಪಾರ್ಸೆಲ್ ಮಾಡಿ.",
+    "roman": "Parcel maadi.",
+    "hint": "Parcel is a common loanword for a takeaway order.",
+    "context": "You need to carry your breakfast home.",
+    "sourceUrls": [
+      "https://learnkannada.site/blog/ordering-food-in-kannada"
+    ],
+    "tokens": [
+      "Parcel",
+      "maadi."
+    ]
+  },
+  {
+    "id": "breakfast-09",
+    "scenario": "breakfast",
+    "english": "Please give me the bill.",
+    "kannada": "ಬಿಲ್ ಕೊಡಿ.",
+    "roman": "Bill kodi.",
+    "hint": "Bill is an English loanword, paired with Kannada kodi.",
+    "context": "You have finished ordering and want the amount written down.",
+    "sourceUrls": [
+      "https://learnkannada.site/blog/ordering-food-in-kannada"
+    ],
+    "tokens": [
+      "Bill",
+      "kodi."
+    ]
+  },
+  {
+    "id": "breakfast-10",
+    "scenario": "breakfast",
+    "english": "Thank you very much.",
+    "kannada": "ತುಂಬಾ ಧನ್ಯವಾದಗಳು.",
+    "roman": "Tumba dhanyavaadagalu.",
+    "hint": "Tumba means very much. Dhanyavaadagalu is a full form of thank you.",
+    "context": "The server brings the missing water and helps you with your order.",
+    "sourceUrls": [
+      "https://en.wikivoyage.org/wiki/Kannada_phrasebook"
+    ],
+    "tokens": [
+      "Tumba",
+      "dhanyavaadagalu."
+    ]
+  },
+  {
+    "id": "groceries-01",
+    "scenario": "groceries",
+    "english": "Do you have tomatoes?",
+    "kannada": "ಟೊಮಾಟೊ ಇದೆಯಾ?",
+    "roman": "Tomaato ideyaa?",
+    "hint": "Ideyaa asks whether something is available. Swap tomaato for another item.",
+    "context": "You are looking for tomatoes at the vegetable stall.",
+    "sourceUrls": [
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf"
+    ],
+    "tokens": [
+      "Tomaato",
+      "ideyaa?"
+    ]
+  },
+  {
+    "id": "groceries-02",
+    "scenario": "groceries",
+    "english": "How much is this?",
+    "kannada": "ಇದು ಎಷ್ಟು?",
+    "roman": "Idu eshtu?",
+    "hint": "Idu means this. Point to the item while asking eshtu.",
+    "context": "A basket of vegetables has no price label.",
+    "sourceUrls": [
+      "https://prayanks.github.io/kannada-course/lessons/0003-how-much-eshtu-numbers.html"
+    ],
+    "tokens": [
+      "Idu",
+      "eshtu?"
+    ]
+  },
+  {
+    "id": "groceries-03",
+    "scenario": "groceries",
+    "english": "Please give me half a kilo.",
+    "kannada": "ಅರ್ಧ ಕಿಲೋ ಕೊಡಿ.",
+    "roman": "Ardha kilo kodi.",
+    "hint": "Ardha means half. Kilo is a widely used unit loanword.",
+    "context": "You only need a small quantity of tomatoes.",
+    "sourceUrls": [
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf",
+      "https://learn101.org/kannada_numbers.php"
+    ],
+    "tokens": [
+      "Ardha",
+      "kilo",
+      "kodi."
+    ]
+  },
+  {
+    "id": "groceries-04",
+    "scenario": "groceries",
+    "english": "Please give me one kilo.",
+    "kannada": "ಒಂದು ಕಿಲೋ ಕೊಡಿ.",
+    "roman": "Ondu kilo kodi.",
+    "hint": "Ondu means one; kodi makes this a polite request.",
+    "context": "You need enough potatoes for several meals.",
+    "sourceUrls": [
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf",
+      "https://learn101.org/kannada_numbers.php"
+    ],
+    "tokens": [
+      "Ondu",
+      "kilo",
+      "kodi."
+    ]
+  },
+  {
+    "id": "groceries-05",
+    "scenario": "groceries",
+    "english": "Do you have something else?",
+    "kannada": "ಬೇರೆ ಏನಾದರೂ ಇದೆಯಾ?",
+    "roman": "Bere enaadaroo ideyaa?",
+    "hint": "Bere means other; enaadaroo means something or anything.",
+    "context": "The variety you wanted is sold out and you want an alternative.",
+    "sourceUrls": [
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf"
+    ],
+    "tokens": [
+      "Bere",
+      "enaadaroo",
+      "ideyaa?"
+    ]
+  },
+  {
+    "id": "groceries-06",
+    "scenario": "groceries",
+    "english": "I do not need a bag.",
+    "kannada": "ಚೀಲ ಬೇಡ.",
+    "roman": "Cheela beda.",
+    "hint": "Cheela means bag; beda means not wanted or not needed.",
+    "context": "You brought a reusable bag with you.",
+    "sourceUrls": [
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf"
+    ],
+    "tokens": [
+      "Cheela",
+      "beda."
+    ]
+  },
+  {
+    "id": "groceries-07",
+    "scenario": "groceries",
+    "english": "How much is the total?",
+    "kannada": "ಒಟ್ಟು ಎಷ್ಟು?",
+    "roman": "Ottu eshtu?",
+    "hint": "Ottu means total.",
+    "context": "All your vegetables have been weighed and packed.",
+    "sourceUrls": [
+      "https://prayanks.github.io/kannada-course/lessons/0003-how-much-eshtu-numbers.html"
+    ],
+    "tokens": [
+      "Ottu",
+      "eshtu?"
+    ]
+  },
+  {
+    "id": "groceries-08",
+    "scenario": "groceries",
+    "english": "Is UPI available?",
+    "kannada": "ಯುಪಿಐ ಇದೆಯಾ?",
+    "roman": "UPI ideyaa?",
+    "hint": "UPI is an English abbreviation; ideyaa asks if it is available.",
+    "context": "You want to know whether there is a UPI payment option.",
+    "sourceUrls": [
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf"
+    ],
+    "tokens": [
+      "UPI",
+      "ideyaa?"
+    ]
+  },
+  {
+    "id": "groceries-09",
+    "scenario": "groceries",
+    "english": "Please give me the change.",
+    "kannada": "ಚಿಲ್ಲರೆ ಕೊಡಿ.",
+    "roman": "Chillare kodi.",
+    "hint": "Chillare means change or small-denomination money.",
+    "context": "You paid with a note larger than the total.",
+    "sourceUrls": [
+      "https://kannadakaliyuva.wordpress.com/2017/06/13/lesson-5-buscab-conversation/"
+    ],
+    "tokens": [
+      "Chillare",
+      "kodi."
+    ]
+  },
+  {
+    "id": "groceries-10",
+    "scenario": "groceries",
+    "english": "Please give me a receipt.",
+    "kannada": "ರಸೀದಿ ಕೊಡಿ.",
+    "roman": "Raseedi kodi.",
+    "hint": "Raseedi means receipt.",
+    "context": "You would like proof of payment before leaving the shop.",
+    "sourceUrls": [
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf"
+    ],
+    "tokens": [
+      "Raseedi",
+      "kodi."
+    ]
+  },
+  {
+    "id": "transit-01",
+    "scenario": "transit",
+    "english": "Does this bus go to Majestic?",
+    "kannada": "ಈ ಬಸ್ ಮೆಜೆಸ್ಟಿಕ್‌ಗೆ ಹೋಗುತ್ತಾ?",
+    "roman": "Ee bus Majestic-ge hoguttaa?",
+    "hint": "Ee means this. Hoguttaa asks whether it goes there. Bus and Majestic are loanword/name forms.",
+    "context": "You need to check the route before boarding a bus.",
+    "sourceUrls": [
+      "https://kannadakaliyuva.wordpress.com/2017/06/13/lesson-5-buscab-conversation/",
+      "https://kannadaguru.wordpress.com/day-4-directions-traffic-police-conversation-autobus/"
+    ],
+    "tokens": [
+      "Ee bus",
+      "Majestic-ge",
+      "hoguttaa?"
+    ]
+  },
+  {
+    "id": "transit-02",
+    "scenario": "transit",
+    "english": "Which platform?",
+    "kannada": "ಯಾವ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್?",
+    "roman": "Yaava platform?",
+    "hint": "Yaava means which. Platform is a common English loanword.",
+    "context": "At the station, you need the correct place to board.",
+    "sourceUrls": [
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf"
+    ],
+    "tokens": [
+      "Yaava",
+      "platform?"
+    ]
+  },
+  {
+    "id": "transit-03",
+    "scenario": "transit",
+    "english": "Please give me one ticket.",
+    "kannada": "ಒಂದು ಟಿಕೆಟ್ ಕೊಡಿ.",
+    "roman": "Ondu ticket kodi.",
+    "hint": "Ticket is an English loanword; ondu and kodi make the request.",
+    "context": "You are travelling alone and have reached the ticket counter.",
+    "sourceUrls": [
+      "https://kannadakaliyuva.wordpress.com/2017/06/13/lesson-5-buscab-conversation/",
+      "https://learn101.org/kannada_numbers.php"
+    ],
+    "tokens": [
+      "Ondu",
+      "ticket",
+      "kodi."
+    ]
+  },
+  {
+    "id": "transit-04",
+    "scenario": "transit",
+    "english": "How much is the ticket?",
+    "kannada": "ಟಿಕೆಟ್ ಎಷ್ಟು?",
+    "roman": "Ticket eshtu?",
+    "hint": "Eshtu asks the price of the ticket.",
+    "context": "You need to know the fare before you pay.",
+    "sourceUrls": [
+      "https://kannadakaliyuva.wordpress.com/2017/06/13/lesson-5-buscab-conversation/"
+    ],
+    "tokens": [
+      "Ticket",
+      "eshtu?"
+    ]
+  },
+  {
+    "id": "transit-05",
+    "scenario": "transit",
+    "english": "When does the bus leave?",
+    "kannada": "ಬಸ್ ಯಾವಾಗ ಹೊರಡುತ್ತೆ?",
+    "roman": "Bus yaavaaga horadutte?",
+    "hint": "Yaavaaga means when; horadutte is a spoken form of leaves or departs.",
+    "context": "The bus is waiting at its starting point.",
+    "sourceUrls": [
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf"
+    ],
+    "tokens": [
+      "Bus",
+      "yaavaaga",
+      "horadutte?"
+    ]
+  },
+  {
+    "id": "transit-06",
+    "scenario": "transit",
+    "english": "Which is the next stop?",
+    "kannada": "ಮುಂದಿನ ನಿಲ್ದಾಣ ಯಾವುದು?",
+    "roman": "Mundina nildaana yaavudu?",
+    "hint": "Mundina means next; nildaana means stop or station.",
+    "context": "You have lost track of how far along the route you are.",
+    "sourceUrls": [
+      "https://kannadakaliyuva.wordpress.com/2017/06/13/lesson-5-buscab-conversation/",
+      "https://kannadaguru.wordpress.com/day-4-directions-traffic-police-conversation-autobus/"
+    ],
+    "tokens": [
+      "Mundina",
+      "nildaana",
+      "yaavudu?"
+    ]
+  },
+  {
+    "id": "transit-07",
+    "scenario": "transit",
+    "english": "I need to get down here.",
+    "kannada": "ನಾನು ಇಲ್ಲಿ ಇಳಿಯಬೇಕು.",
+    "roman": "Naanu illi iliyabeku.",
+    "hint": "Iliya means to get down; beku expresses need.",
+    "context": "You recognise your destination and need to leave the bus.",
+    "sourceUrls": [
+      "https://kannadakaliyuva.wordpress.com/2017/06/13/lesson-5-buscab-conversation/",
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf"
+    ],
+    "tokens": [
+      "Naanu",
+      "illi",
+      "iliyabeku."
+    ]
+  },
+  {
+    "id": "transit-08",
+    "scenario": "transit",
+    "english": "Please help a little.",
+    "kannada": "ಸ್ವಲ್ಪ ಸಹಾಯ ಮಾಡಿ.",
+    "roman": "Swalpa sahaaya maadi.",
+    "hint": "Sahaaya means help; maadi makes the request polite.",
+    "context": "You are unsure where to go in a busy station.",
+    "sourceUrls": [
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf"
+    ],
+    "tokens": [
+      "Swalpa",
+      "sahaaya",
+      "maadi."
+    ]
+  },
+  {
+    "id": "transit-09",
+    "scenario": "transit",
+    "english": "Where is the metro station?",
+    "kannada": "ಮೆಟ್ರೋ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+    "roman": "Metro nildaana ellide?",
+    "hint": "Ellide means where is it. Metro is a loanword.",
+    "context": "You leave the bus and need to find the nearby metro entrance.",
+    "sourceUrls": [
+      "https://kannadakaliyuva.wordpress.com/2017/06/13/lesson-5-buscab-conversation/",
+      "https://kannadaguru.wordpress.com/day-4-directions-traffic-police-conversation-autobus/"
+    ],
+    "tokens": [
+      "Metro",
+      "nildaana",
+      "ellide?"
+    ]
+  },
+  {
+    "id": "transit-10",
+    "scenario": "transit",
+    "english": "Is there a seat?",
+    "kannada": "ಸೀಟು ಇದೆಯಾ?",
+    "roman": "Seetu ideyaa?",
+    "hint": "Seetu is a Kannada-adapted form of the English word seat.",
+    "context": "You would like to check whether a place to sit is available.",
+    "sourceUrls": [
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf"
+    ],
+    "tokens": [
+      "Seetu",
+      "ideyaa?"
+    ]
+  },
+  {
+    "id": "delivery-01",
+    "scenario": "delivery",
+    "english": "Where are you?",
+    "kannada": "ನೀವು ಎಲ್ಲಿದ್ದೀರಾ?",
+    "roman": "Neevu elliddeeraa?",
+    "hint": "Neevu is the respectful form of you; elliddeeraa asks where you are.",
+    "context": "Your delivery person calls, but you cannot see them outside.",
+    "sourceUrls": [
+      "https://kannadaguru.wordpress.com/day-4-directions-traffic-police-conversation-autobus/",
+      "https://en.wikivoyage.org/wiki/Kannada_phrasebook"
+    ],
+    "tokens": [
+      "Neevu",
+      "elliddeeraa?"
+    ]
+  },
+  {
+    "id": "delivery-02",
+    "scenario": "delivery",
+    "english": "Please come near the shop.",
+    "kannada": "ಅಂಗಡಿ ಹತ್ತಿರ ಬನ್ನಿ.",
+    "roman": "Angadi hattira banni.",
+    "hint": "Angadi means shop; hattira means near; banni means please come.",
+    "context": "The shop beside your building is an easy landmark.",
+    "sourceUrls": [
+      "https://kannadaguru.wordpress.com/day-4-directions-traffic-police-conversation-autobus/"
+    ],
+    "tokens": [
+      "Angadi",
+      "hattira",
+      "banni."
+    ]
+  },
+  {
+    "id": "delivery-03",
+    "scenario": "delivery",
+    "english": "I am near the gate.",
+    "kannada": "ನಾನು ಗೇಟ್ ಹತ್ತಿರ ಇದ್ದೇನೆ.",
+    "roman": "Naanu gate hattira iddene.",
+    "hint": "Hattira means near. Gate is a common English loanword.",
+    "context": "You have gone outside and need to describe your location.",
+    "sourceUrls": [
+      "https://kannadaguru.wordpress.com/day-4-directions-traffic-police-conversation-autobus/"
+    ],
+    "tokens": [
+      "Naanu",
+      "gate hattira",
+      "iddene."
+    ]
+  },
+  {
+    "id": "delivery-04",
+    "scenario": "delivery",
+    "english": "Please come to the second floor.",
+    "kannada": "ಎರಡನೇ ಮಹಡಿಗೆ ಬನ್ನಿ.",
+    "roman": "Eradane mahadige banni.",
+    "hint": "Eradane means second; mahadige means to the floor.",
+    "context": "The delivery person is at the correct building and needs your floor.",
+    "sourceUrls": [
+      "https://learn101.org/kannada_numbers.php",
+      "https://kannadaguru.wordpress.com/day-4-directions-traffic-police-conversation-autobus/"
+    ],
+    "tokens": [
+      "Eradane",
+      "mahadige",
+      "banni."
+    ]
+  },
+  {
+    "id": "delivery-05",
+    "scenario": "delivery",
+    "english": "Have you arrived?",
+    "kannada": "ನೀವು ಬಂದಿದ್ದೀರಾ?",
+    "roman": "Neevu bandiddeeraa?",
+    "hint": "Bandiddeeraa respectfully asks whether someone has come.",
+    "context": "The expected delivery time has passed and you are checking arrival.",
+    "sourceUrls": [
+      "https://en.wikivoyage.org/wiki/Kannada_phrasebook"
+    ],
+    "tokens": [
+      "Neevu",
+      "bandiddeeraa?"
+    ]
+  },
+  {
+    "id": "delivery-06",
+    "scenario": "delivery",
+    "english": "Please wait one minute.",
+    "kannada": "ಒಂದು ನಿಮಿಷ ಕಾಯಿರಿ.",
+    "roman": "Ondu nimisha kaayiri.",
+    "hint": "Nimisha means minute; kaayiri means please wait.",
+    "context": "You need a moment to put on your shoes.",
+    "sourceUrls": [
+      "https://kannadakaliyuva.wordpress.com/2017/06/13/lesson-5-buscab-conversation/",
+      "https://learn101.org/kannada_numbers.php"
+    ],
+    "tokens": [
+      "Ondu",
+      "nimisha",
+      "kaayiri."
+    ]
+  },
+  {
+    "id": "delivery-07",
+    "scenario": "delivery",
+    "english": "I am coming downstairs.",
+    "kannada": "ನಾನು ಕೆಳಗೆ ಬರುತ್ತಿದ್ದೇನೆ.",
+    "roman": "Naanu kelage baruttiddene.",
+    "hint": "Kelage means down; baruttiddene means I am coming.",
+    "context": "The delivery person is waiting at the entrance while you leave your flat.",
+    "sourceUrls": [
+      "https://kannadaguru.wordpress.com/day-4-directions-traffic-police-conversation-autobus/"
+    ],
+    "tokens": [
+      "Naanu",
+      "kelage",
+      "baruttiddene."
+    ]
+  },
+  {
+    "id": "delivery-08",
+    "scenario": "delivery",
+    "english": "Please give the parcel here.",
+    "kannada": "ಪಾರ್ಸೆಲ್ ಇಲ್ಲಿ ಕೊಡಿ.",
+    "roman": "Parcel illi kodi.",
+    "hint": "Illi means here. Parcel is a common loanword.",
+    "context": "You are ready to receive the package at your door.",
+    "sourceUrls": [
+      "https://learnkannada.site/blog/ordering-food-in-kannada"
+    ],
+    "tokens": [
+      "Parcel",
+      "illi",
+      "kodi."
+    ]
+  },
+  {
+    "id": "delivery-09",
+    "scenario": "delivery",
+    "english": "I have paid.",
+    "kannada": "ನಾನು ಹಣ ಕೊಟ್ಟಿದ್ದೇನೆ.",
+    "roman": "Naanu hana kottiddene.",
+    "hint": "Hana means money; kottiddene means I have given. Use only when payment is complete.",
+    "context": "You need to confirm that payment has already been made.",
+    "sourceUrls": [
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf"
+    ],
+    "tokens": [
+      "Naanu",
+      "hana",
+      "kottiddene."
+    ]
+  },
+  {
+    "id": "delivery-10",
+    "scenario": "delivery",
+    "english": "Okay, thank you.",
+    "kannada": "ಸರಿ, ಧನ್ಯವಾದಗಳು.",
+    "roman": "Sari, dhanyavaadagalu.",
+    "hint": "Sari means okay.",
+    "context": "The parcel has been handed over and the conversation is ending.",
+    "sourceUrls": [
+      "https://en.wikivoyage.org/wiki/Kannada_phrasebook",
+      "https://prayanks.github.io/kannada-course/lessons/0003-how-much-eshtu-numbers.html"
+    ],
+    "tokens": [
+      "Sari,",
+      "dhanyavaadagalu."
+    ]
+  },
+  {
+    "id": "neighbours-01",
+    "scenario": "neighbours",
+    "english": "Hello, how are you?",
+    "kannada": "ನಮಸ್ಕಾರ, ಹೇಗಿದ್ದೀರಾ?",
+    "roman": "Namaskaara, hegiddeeraa?",
+    "hint": "Namaskaara is a greeting; hegiddeeraa is a respectful how are you.",
+    "context": "You meet a neighbour in the corridor in the morning.",
+    "sourceUrls": [
+      "https://en.wikivoyage.org/wiki/Kannada_phrasebook"
+    ],
+    "tokens": [
+      "Namaskaara,",
+      "hegiddeeraa?"
+    ]
+  },
+  {
+    "id": "neighbours-02",
+    "scenario": "neighbours",
+    "english": "My name is Asha.",
+    "kannada": "ನನ್ನ ಹೆಸರು ಆಶಾ.",
+    "roman": "Nanna hesaru Asha.",
+    "hint": "Nanna means my; hesaru means name. Replace Asha with your own name in real life.",
+    "context": "Introduce the fictional player, Asha, to a neighbour.",
+    "sourceUrls": [
+      "https://en.wikivoyage.org/wiki/Kannada_phrasebook"
+    ],
+    "tokens": [
+      "Nanna",
+      "hesaru",
+      "Asha."
+    ]
+  },
+  {
+    "id": "neighbours-03",
+    "scenario": "neighbours",
+    "english": "I am new to this area.",
+    "kannada": "ಈ ಜಾಗ ನನಗೆ ಹೊಸದು.",
+    "roman": "Ee jaaga nanage hosadu.",
+    "hint": "Literally: this place is new to me. Jaaga is place; hosadu is new.",
+    "context": "You want to explain why you do not yet know your way around.",
+    "sourceUrls": [
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf"
+    ],
+    "tokens": [
+      "Ee jaaga",
+      "nanage",
+      "hosadu."
+    ]
+  },
+  {
+    "id": "neighbours-04",
+    "scenario": "neighbours",
+    "english": "I am learning Kannada.",
+    "kannada": "ನಾನು ಕನ್ನಡ ಕಲಿಯುತ್ತಿದ್ದೇನೆ.",
+    "roman": "Naanu Kannada kaliyuttiddene.",
+    "hint": "Naanu means I; kaliyuttiddene means am learning.",
+    "context": "You explain why you are practising a few Kannada phrases.",
+    "sourceUrls": [
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf"
+    ],
+    "tokens": [
+      "Naanu",
+      "Kannada",
+      "kaliyuttiddene."
+    ]
+  },
+  {
+    "id": "neighbours-05",
+    "scenario": "neighbours",
+    "english": "Please say it once more.",
+    "kannada": "ಇನ್ನೊಂದು ಸಲ ಹೇಳಿ.",
+    "roman": "Innondu sala heli.",
+    "hint": "Innondu sala means one more time; heli means please say.",
+    "context": "You missed what your neighbour just said.",
+    "sourceUrls": [
+      "https://elocue.com/blog/kannada/when-kannada-moves-too-fast/"
+    ],
+    "tokens": [
+      "Innondu sala",
+      "heli."
+    ]
+  },
+  {
+    "id": "neighbours-06",
+    "scenario": "neighbours",
+    "english": "Please speak a little slowly.",
+    "kannada": "ಸ್ವಲ್ಪ ನಿಧಾನವಾಗಿ ಮಾತಾಡಿ.",
+    "roman": "Swalpa nidhaanavaagi maataadi.",
+    "hint": "Maataadi is a polite spoken form of speak.",
+    "context": "You catch some words, but the reply is too fast.",
+    "sourceUrls": [
+      "https://elocue.com/blog/kannada/when-kannada-moves-too-fast/",
+      "https://kannadaguru.wordpress.com/day-4-directions-traffic-police-conversation-autobus/"
+    ],
+    "tokens": [
+      "Swalpa",
+      "nidhaanavaagi",
+      "maataadi."
+    ]
+  },
+  {
+    "id": "neighbours-07",
+    "scenario": "neighbours",
+    "english": "I did not understand.",
+    "kannada": "ನನಗೆ ಅರ್ಥ ಆಗಲಿಲ್ಲ.",
+    "roman": "Nanage artha aagalilla.",
+    "hint": "Nanage means to me; artha aagalilla means it did not make sense to me.",
+    "context": "The explanation is still unclear and you want to say so politely.",
+    "sourceUrls": [
+      "https://en.wikivoyage.org/wiki/Kannada_phrasebook"
+    ],
+    "tokens": [
+      "Nanage",
+      "artha",
+      "aagalilla."
+    ]
+  },
+  {
+    "id": "neighbours-08",
+    "scenario": "neighbours",
+    "english": "Please help me.",
+    "kannada": "ದಯವಿಟ್ಟು ನನಗೆ ಸಹಾಯ ಮಾಡಿ.",
+    "roman": "Dayavittu nanage sahaaya maadi.",
+    "hint": "Dayavittu means please; sahaaya means help.",
+    "context": "You need assistance finding the building office.",
+    "sourceUrls": [
+      "https://ekannada.karnataka.gov.in/pdf/Kannada_English_Lesson-11.pdf"
+    ],
+    "tokens": [
+      "Dayavittu",
+      "nanage",
+      "sahaaya maadi."
+    ]
+  },
+  {
+    "id": "neighbours-09",
+    "scenario": "neighbours",
+    "english": "See you again.",
+    "kannada": "ಮತ್ತೆ ಸಿಗೋಣ.",
+    "roman": "Matte sigona.",
+    "hint": "Matte means again; sigona means let us meet.",
+    "context": "You are leaving after a friendly conversation.",
+    "sourceUrls": [
+      "https://en.wikivoyage.org/wiki/Kannada_phrasebook"
+    ],
+    "tokens": [
+      "Matte",
+      "sigona."
+    ]
+  },
+  {
+    "id": "neighbours-10",
+    "scenario": "neighbours",
+    "english": "I am doing well.",
+    "kannada": "ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ.",
+    "roman": "Naanu chennaagiddene.",
+    "hint": "Chennaagiddene means I am well. You may hear the shorter chennagidini in speech.",
+    "context": "Your neighbour asks how you are.",
+    "sourceUrls": [
+      "https://en.wikivoyage.org/wiki/Kannada_phrasebook"
+    ],
+    "tokens": [
+      "Naanu",
+      "chennaagiddene."
+    ]
+  }
+]

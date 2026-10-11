@@ -1,0 +1,52 @@
+[
+  {
+    "digit": 0,
+    "kannada": "ಸೊನ್ನೆ",
+    "roman": "sonne"
+  },
+  {
+    "digit": 1,
+    "kannada": "ಒಂದು",
+    "roman": "ondu"
+  },
+  {
+    "digit": 2,
+    "kannada": "ಎರಡು",
+    "roman": "eradu"
+  },
+  {
+    "digit": 3,
+    "kannada": "ಮೂರು",
+    "roman": "mooru"
+  },
+  {
+    "digit": 4,
+    "kannada": "ನಾಲ್ಕು",
+    "roman": "naalku"
+  },
+  {
+    "digit": 5,
+    "kannada": "ಐದು",
+    "roman": "aidu"
+  },
+  {
+    "digit": 6,
+    "kannada": "ಆರು",
+    "roman": "aaru"
+  },
+  {
+    "digit": 7,
+    "kannada": "ಏಳು",
+    "roman": "elu"
+  },
+  {
+    "digit": 8,
+    "kannada": "ಎಂಟು",
+    "roman": "entu"
+  },
+  {
+    "digit": 9,
+    "kannada": "ಒಂಬತ್ತು",
+    "roman": "ombattu"
+  }
+]

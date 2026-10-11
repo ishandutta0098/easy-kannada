@@ -1,0 +1,23 @@
+name: Phrase or pronunciation correction
+description: Help improve the Kannada, meaning, or pronunciation.
+title: 'Phrase correction: '
+body:
+  - type: input
+    id: phrase
+    attributes:
+      label: Phrase or mission
+      placeholder: e.g. auto-03, Anna edakke tirugi
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Suggested correction
+      description: Include Kannada script, intended meaning, and local usage if possible.
+    validations:
+      required: true
+  - type: textarea
+    id: reference
+    attributes:
+      label: Supporting reference or context
+      description: A published reference or your experience as a Kannada speaker or teacher.

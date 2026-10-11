@@ -1,0 +1,702 @@
+[
+  {
+    "id": "auto-01",
+    "text": "ಅಣ್ಣ, ಇಂದಿರಾನಗರಕ್ಕೆ ಹೋಗಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "40be4fba34fc8e0da6ce3ed6ebaf76b26ef6addca6bd79d1ab9c924f66dd2466",
+    "files": [
+      "assets/audio/auto-01.mp3",
+      "assets/audio/auto-01-slow.mp3"
+    ]
+  },
+  {
+    "id": "auto-02",
+    "text": "ಅಣ್ಣ, ಓಟಿಪಿ ನಾಲ್ಕು, ಎಂಟು, ಎರಡು, ಆರು.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "1e5f69d8456b98be679d28e9fa1a392ea115de676f77f78153ac2e48eddecf80",
+    "files": [
+      "assets/audio/auto-02.mp3",
+      "assets/audio/auto-02-slow.mp3"
+    ]
+  },
+  {
+    "id": "auto-03",
+    "text": "ಅಣ್ಣ, ಎಡಕ್ಕೆ ತಿರುಗಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "54f3796f9cbd7eefbf6f96d9ab780331d936c9abaade1aeda6147034d96a0c34",
+    "files": [
+      "assets/audio/auto-03.mp3",
+      "assets/audio/auto-03-slow.mp3"
+    ]
+  },
+  {
+    "id": "auto-04",
+    "text": "ಅಣ್ಣ, ಬಲಕ್ಕೆ ತಿರುಗಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "72144af8c78b1429bc76f303c19056b3ff097f3b0e95134ae4568b040ca52083",
+    "files": [
+      "assets/audio/auto-04.mp3",
+      "assets/audio/auto-04-slow.mp3"
+    ]
+  },
+  {
+    "id": "auto-05",
+    "text": "ನೇರವಾಗಿ ಹೋಗಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "b7de6048ef9b40554882278dbff10ceffdd2361174235943ea10e4e51899906d",
+    "files": [
+      "assets/audio/auto-05.mp3",
+      "assets/audio/auto-05-slow.mp3"
+    ]
+  },
+  {
+    "id": "auto-06",
+    "text": "ಸ್ವಲ್ಪ ನಿಧಾನವಾಗಿ ಹೋಗಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "45f64a5e1a9d66c6ff242f5ab5befb3549a03dc63f5573be2d8608c03a0c34e0",
+    "files": [
+      "assets/audio/auto-06.mp3",
+      "assets/audio/auto-06-slow.mp3"
+    ]
+  },
+  {
+    "id": "auto-07",
+    "text": "ಸ್ವಲ್ಪ ಕಾಯಿರಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "13e4f3827ab552de5b6acb9d960377f586554c30dae076287fbcfe3d029bfd0a",
+    "files": [
+      "assets/audio/auto-07.mp3",
+      "assets/audio/auto-07-slow.mp3"
+    ]
+  },
+  {
+    "id": "auto-08",
+    "text": "ಅಣ್ಣ, ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "cd4b64eff3a8b09b3281b1f3f18a1cc0bae7741d42ee892876d328e2bfe6f852",
+    "files": [
+      "assets/audio/auto-08.mp3",
+      "assets/audio/auto-08-slow.mp3"
+    ]
+  },
+  {
+    "id": "auto-09",
+    "text": "ಎಷ್ಟು ಆಯಿತು?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "dbb936deec0acaf692685546ce8330d64ab72171e6aef6b1051622e073086bc2",
+    "files": [
+      "assets/audio/auto-09.mp3",
+      "assets/audio/auto-09-slow.mp3"
+    ]
+  },
+  {
+    "id": "auto-10",
+    "text": "ಯುಪಿಐ ಮೂಲಕ ಕೊಡಬಹುದಾ?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "85b147fb2d6f69be3e20095fde3df178114f4fbbdcec36d0c67e55bc12515b61",
+    "files": [
+      "assets/audio/auto-10.mp3",
+      "assets/audio/auto-10-slow.mp3"
+    ]
+  },
+  {
+    "id": "breakfast-01",
+    "text": "ಎರಡು ಇಡ್ಲಿ ಕೊಡಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "f3762b9a026b7130902f7383c1cf64d30e3ec26e7373f8f1236f8a3b53854024",
+    "files": [
+      "assets/audio/breakfast-01.mp3",
+      "assets/audio/breakfast-01-slow.mp3"
+    ]
+  },
+  {
+    "id": "breakfast-02",
+    "text": "ಒಂದು ದೋಸೆ ಕೊಡಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "c8230bda1cbfb241b67cc970e8d9d38cf1b46cc0f3355efe99f26fc5ceae878f",
+    "files": [
+      "assets/audio/breakfast-02.mp3",
+      "assets/audio/breakfast-02-slow.mp3"
+    ]
+  },
+  {
+    "id": "breakfast-03",
+    "text": "ಒಂದು ಕಾಫಿ ಕೊಡಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "f029315d7a97f935ce7a38e6d2f8377a6479ff3e6adb463894f25f07792b8cab",
+    "files": [
+      "assets/audio/breakfast-03.mp3",
+      "assets/audio/breakfast-03-slow.mp3"
+    ]
+  },
+  {
+    "id": "breakfast-04",
+    "text": "ಸ್ವಲ್ಪ ನೀರು ಕೊಡಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "e29001344ed5f6dd5ca6e52223a3de999489d13dd74f5fab8545441465c01c23",
+    "files": [
+      "assets/audio/breakfast-04.mp3",
+      "assets/audio/breakfast-04-slow.mp3"
+    ]
+  },
+  {
+    "id": "breakfast-05",
+    "text": "ಸಕ್ಕರೆ ಕಡಿಮೆ ಹಾಕಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "0517b3dc3489204ba713b8bffa0575bb2c56ab64a5b21d93b390cdfce2a7860f",
+    "files": [
+      "assets/audio/breakfast-05.mp3",
+      "assets/audio/breakfast-05-slow.mp3"
+    ]
+  },
+  {
+    "id": "breakfast-06",
+    "text": "ಖಾರ ಕಡಿಮೆ ಮಾಡಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "5c299780fe71726de17738b2c28e576ba9f42cd83793ca421e1cae234fcdd4f9",
+    "files": [
+      "assets/audio/breakfast-06.mp3",
+      "assets/audio/breakfast-06-slow.mp3"
+    ]
+  },
+  {
+    "id": "breakfast-07",
+    "text": "ಏನು ಇದೆ?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "c24c59a82a56c0e77f2e38d0fa49c8ffbe1c164732975b41346da904639984ed",
+    "files": [
+      "assets/audio/breakfast-07.mp3",
+      "assets/audio/breakfast-07-slow.mp3"
+    ]
+  },
+  {
+    "id": "breakfast-08",
+    "text": "ಪಾರ್ಸೆಲ್ ಮಾಡಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "de5158565be715a54fa1400179efdf02c6bc7a74cf38c24d9a53450b6bd44852",
+    "files": [
+      "assets/audio/breakfast-08.mp3",
+      "assets/audio/breakfast-08-slow.mp3"
+    ]
+  },
+  {
+    "id": "breakfast-09",
+    "text": "ಬಿಲ್ ಕೊಡಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "ffcd30d0337bfdd57ce08bed1bc0e5ca74a5ebc7e5d0d01272ab0a18ae516ed5",
+    "files": [
+      "assets/audio/breakfast-09.mp3",
+      "assets/audio/breakfast-09-slow.mp3"
+    ]
+  },
+  {
+    "id": "breakfast-10",
+    "text": "ತುಂಬಾ ಧನ್ಯವಾದಗಳು.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "d83eab9126bd87d8a50363e55830b45257283d207792dd9d4db268fbfa117059",
+    "files": [
+      "assets/audio/breakfast-10.mp3",
+      "assets/audio/breakfast-10-slow.mp3"
+    ]
+  },
+  {
+    "id": "groceries-01",
+    "text": "ಟೊಮಾಟೊ ಇದೆಯಾ?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "9d0967da2677bdfa05eb03aa9eb35dd4518912b6ef6a6181dbe2ce0a0134669e",
+    "files": [
+      "assets/audio/groceries-01.mp3",
+      "assets/audio/groceries-01-slow.mp3"
+    ]
+  },
+  {
+    "id": "groceries-02",
+    "text": "ಇದು ಎಷ್ಟು?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "42be6bb972616111418cf72d8143ad163520c7108fbebc85b9d420c3816f5c77",
+    "files": [
+      "assets/audio/groceries-02.mp3",
+      "assets/audio/groceries-02-slow.mp3"
+    ]
+  },
+  {
+    "id": "groceries-03",
+    "text": "ಅರ್ಧ ಕಿಲೋ ಕೊಡಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "c2aa2745d6d911ce216c35ba5dda3a8715a6588cb05f0a80c8fc1b1e5fc6b059",
+    "files": [
+      "assets/audio/groceries-03.mp3",
+      "assets/audio/groceries-03-slow.mp3"
+    ]
+  },
+  {
+    "id": "groceries-04",
+    "text": "ಒಂದು ಕಿಲೋ ಕೊಡಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "6ac4fa9c3d4728dd0ad5533c1fccd4d4984979d8efe409cc2ade7f181d34da81",
+    "files": [
+      "assets/audio/groceries-04.mp3",
+      "assets/audio/groceries-04-slow.mp3"
+    ]
+  },
+  {
+    "id": "groceries-05",
+    "text": "ಬೇರೆ ಏನಾದರೂ ಇದೆಯಾ?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "51fdc4a3b1f10fe86a2ad0eb345f32dc0cc1a07e2196bb3ecb38b1eff093fef1",
+    "files": [
+      "assets/audio/groceries-05.mp3",
+      "assets/audio/groceries-05-slow.mp3"
+    ]
+  },
+  {
+    "id": "groceries-06",
+    "text": "ಚೀಲ ಬೇಡ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "adf0964df0c0944536d6f7b62fb3707e672675624e42ec8cb57a01d04716bf25",
+    "files": [
+      "assets/audio/groceries-06.mp3",
+      "assets/audio/groceries-06-slow.mp3"
+    ]
+  },
+  {
+    "id": "groceries-07",
+    "text": "ಒಟ್ಟು ಎಷ್ಟು?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "68bbcaf44950cf23937c672730d0a21419be57a9f97e6e9d228d121a19c0b7bf",
+    "files": [
+      "assets/audio/groceries-07.mp3",
+      "assets/audio/groceries-07-slow.mp3"
+    ]
+  },
+  {
+    "id": "groceries-08",
+    "text": "ಯುಪಿಐ ಇದೆಯಾ?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "65634221e3846888d4c1930212ff9f98beeb9edc1886c5628778733c040dc163",
+    "files": [
+      "assets/audio/groceries-08.mp3",
+      "assets/audio/groceries-08-slow.mp3"
+    ]
+  },
+  {
+    "id": "groceries-09",
+    "text": "ಚಿಲ್ಲರೆ ಕೊಡಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "8165609023e1360a8c1a5a5f840543ea50986dd945fec4cdfd4b8ec67226c419",
+    "files": [
+      "assets/audio/groceries-09.mp3",
+      "assets/audio/groceries-09-slow.mp3"
+    ]
+  },
+  {
+    "id": "groceries-10",
+    "text": "ರಸೀದಿ ಕೊಡಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "3730c53699f812d0594b2c5db51b32b1ef1cf090de22a9a8230f2882d33fbb93",
+    "files": [
+      "assets/audio/groceries-10.mp3",
+      "assets/audio/groceries-10-slow.mp3"
+    ]
+  },
+  {
+    "id": "transit-01",
+    "text": "ಈ ಬಸ್ ಮೆಜೆಸ್ಟಿಕ್‌ಗೆ ಹೋಗುತ್ತಾ?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "375fde82d58f09170c6485b6b0563a290cb1bb6d85aa3740ab4eb1750bfdb5d0",
+    "files": [
+      "assets/audio/transit-01.mp3",
+      "assets/audio/transit-01-slow.mp3"
+    ]
+  },
+  {
+    "id": "transit-02",
+    "text": "ಯಾವ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "d31eea21f646d1d858605d01b77efc1f9285355f738315986094a15966062e44",
+    "files": [
+      "assets/audio/transit-02.mp3",
+      "assets/audio/transit-02-slow.mp3"
+    ]
+  },
+  {
+    "id": "transit-03",
+    "text": "ಒಂದು ಟಿಕೆಟ್ ಕೊಡಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "ba2214c072387c0b8e9072583ac2436c754325aef75720b74d671978ca3c780a",
+    "files": [
+      "assets/audio/transit-03.mp3",
+      "assets/audio/transit-03-slow.mp3"
+    ]
+  },
+  {
+    "id": "transit-04",
+    "text": "ಟಿಕೆಟ್ ಎಷ್ಟು?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "be3ae69d2a3d4157e82c39cdedfefdc1998f246b35bb649a8a50f7acc872eadd",
+    "files": [
+      "assets/audio/transit-04.mp3",
+      "assets/audio/transit-04-slow.mp3"
+    ]
+  },
+  {
+    "id": "transit-05",
+    "text": "ಬಸ್ ಯಾವಾಗ ಹೊರಡುತ್ತೆ?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "0627c756f244e23c0df6a94d840c8a6100cc03d9663f40e5b6e1f8801cc60e71",
+    "files": [
+      "assets/audio/transit-05.mp3",
+      "assets/audio/transit-05-slow.mp3"
+    ]
+  },
+  {
+    "id": "transit-06",
+    "text": "ಮುಂದಿನ ನಿಲ್ದಾಣ ಯಾವುದು?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "db8166f731b7fc1bf93f1841f7c8dab71822b246e80dfaf10bee2a46a08f0144",
+    "files": [
+      "assets/audio/transit-06.mp3",
+      "assets/audio/transit-06-slow.mp3"
+    ]
+  },
+  {
+    "id": "transit-07",
+    "text": "ನಾನು ಇಲ್ಲಿ ಇಳಿಯಬೇಕು.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "5c800734cd5a353c9336659a40163a65f994b7af0fa95cc4d19ce64a3c99c634",
+    "files": [
+      "assets/audio/transit-07.mp3",
+      "assets/audio/transit-07-slow.mp3"
+    ]
+  },
+  {
+    "id": "transit-08",
+    "text": "ಸ್ವಲ್ಪ ಸಹಾಯ ಮಾಡಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "4da686a3ab27b9d089a2e9a138f43aa80d99a3f7a106953d98a1e7156fc6bcc1",
+    "files": [
+      "assets/audio/transit-08.mp3",
+      "assets/audio/transit-08-slow.mp3"
+    ]
+  },
+  {
+    "id": "transit-09",
+    "text": "ಮೆಟ್ರೋ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "3257747ead98f0606e933ccb80a1bda2c718540669d28f0653ad3f4761f9fbb1",
+    "files": [
+      "assets/audio/transit-09.mp3",
+      "assets/audio/transit-09-slow.mp3"
+    ]
+  },
+  {
+    "id": "transit-10",
+    "text": "ಸೀಟು ಇದೆಯಾ?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "ac5d8f299c210b9ae316e972d5c7461edb72c6e63bfd01fdf25f0fc443a0119a",
+    "files": [
+      "assets/audio/transit-10.mp3",
+      "assets/audio/transit-10-slow.mp3"
+    ]
+  },
+  {
+    "id": "delivery-01",
+    "text": "ನೀವು ಎಲ್ಲಿದ್ದೀರಾ?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "5a642d9dda8c334be27da5fc01f52e3742d4e363a7aca2dfbb110b6f2c6262b4",
+    "files": [
+      "assets/audio/delivery-01.mp3",
+      "assets/audio/delivery-01-slow.mp3"
+    ]
+  },
+  {
+    "id": "delivery-02",
+    "text": "ಅಂಗಡಿ ಹತ್ತಿರ ಬನ್ನಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "be3b727ea70eaa627378e53bced40ef695f67868711fb793e2a3d36d38fe64ed",
+    "files": [
+      "assets/audio/delivery-02.mp3",
+      "assets/audio/delivery-02-slow.mp3"
+    ]
+  },
+  {
+    "id": "delivery-03",
+    "text": "ನಾನು ಗೇಟ್ ಹತ್ತಿರ ಇದ್ದೇನೆ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "375466bbae349a851c71d898081c6d1d0083c7e73f657f7b0056ae2425865979",
+    "files": [
+      "assets/audio/delivery-03.mp3",
+      "assets/audio/delivery-03-slow.mp3"
+    ]
+  },
+  {
+    "id": "delivery-04",
+    "text": "ಎರಡನೇ ಮಹಡಿಗೆ ಬನ್ನಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "29e87d45bb28df8ff33ee852faec7930089f48bae334c0c4858d6dd6bb18fac5",
+    "files": [
+      "assets/audio/delivery-04.mp3",
+      "assets/audio/delivery-04-slow.mp3"
+    ]
+  },
+  {
+    "id": "delivery-05",
+    "text": "ನೀವು ಬಂದಿದ್ದೀರಾ?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "6165786535f8b9ac63e03aa8671093610bb93d42bcdc1a616876ba3edf6b1934",
+    "files": [
+      "assets/audio/delivery-05.mp3",
+      "assets/audio/delivery-05-slow.mp3"
+    ]
+  },
+  {
+    "id": "delivery-06",
+    "text": "ಒಂದು ನಿಮಿಷ ಕಾಯಿರಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "3678cc1274fbc301574ebd22b76aafa223b41e44d2fc16dbd2dada089ed11dc3",
+    "files": [
+      "assets/audio/delivery-06.mp3",
+      "assets/audio/delivery-06-slow.mp3"
+    ]
+  },
+  {
+    "id": "delivery-07",
+    "text": "ನಾನು ಕೆಳಗೆ ಬರುತ್ತಿದ್ದೇನೆ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "ae34b358ff1d112b66f720533f58a9f3d6696dc7f7d3286ccf5695ee3fb86c2f",
+    "files": [
+      "assets/audio/delivery-07.mp3",
+      "assets/audio/delivery-07-slow.mp3"
+    ]
+  },
+  {
+    "id": "delivery-08",
+    "text": "ಪಾರ್ಸೆಲ್ ಇಲ್ಲಿ ಕೊಡಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "c825053bfc60ee74c1ba4d43584f493b86b6ecf1ae73f086b15b8e73a831ee86",
+    "files": [
+      "assets/audio/delivery-08.mp3",
+      "assets/audio/delivery-08-slow.mp3"
+    ]
+  },
+  {
+    "id": "delivery-09",
+    "text": "ನಾನು ಹಣ ಕೊಟ್ಟಿದ್ದೇನೆ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "427e1684c31ef25a3ed94618b559487944a3597c7f207fea3f6779a300b8f11a",
+    "files": [
+      "assets/audio/delivery-09.mp3",
+      "assets/audio/delivery-09-slow.mp3"
+    ]
+  },
+  {
+    "id": "delivery-10",
+    "text": "ಸರಿ, ಧನ್ಯವಾದಗಳು.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "4241aa0a825ac0aa6f07e1ff22c8e1d6f4bf11a378e52da1b2567067d762f268",
+    "files": [
+      "assets/audio/delivery-10.mp3",
+      "assets/audio/delivery-10-slow.mp3"
+    ]
+  },
+  {
+    "id": "neighbours-01",
+    "text": "ನಮಸ್ಕಾರ, ಹೇಗಿದ್ದೀರಾ?",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "09a2914e4249b26225321ae1cc94732612500b382463e2bdba3a7afa7a7a88ab",
+    "files": [
+      "assets/audio/neighbours-01.mp3",
+      "assets/audio/neighbours-01-slow.mp3"
+    ]
+  },
+  {
+    "id": "neighbours-02",
+    "text": "ನನ್ನ ಹೆಸರು ಆಶಾ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "6557a6347d771fd650347f74b3cab004c265e3d18eed3fab45bb63485211e0ec",
+    "files": [
+      "assets/audio/neighbours-02.mp3",
+      "assets/audio/neighbours-02-slow.mp3"
+    ]
+  },
+  {
+    "id": "neighbours-03",
+    "text": "ಈ ಜಾಗ ನನಗೆ ಹೊಸದು.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "d9594d11140820a3077edc8f7812a0bb977310621e018e209f3717cb63db94cf",
+    "files": [
+      "assets/audio/neighbours-03.mp3",
+      "assets/audio/neighbours-03-slow.mp3"
+    ]
+  },
+  {
+    "id": "neighbours-04",
+    "text": "ನಾನು ಕನ್ನಡ ಕಲಿಯುತ್ತಿದ್ದೇನೆ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "d5f6d1a0439b3099d178b7c9cee40b795554c4e91d528b1b36528860d2a43d79",
+    "files": [
+      "assets/audio/neighbours-04.mp3",
+      "assets/audio/neighbours-04-slow.mp3"
+    ]
+  },
+  {
+    "id": "neighbours-05",
+    "text": "ಇನ್ನೊಂದು ಸಲ ಹೇಳಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "bd418e6bc07112e2fac93911e0b1988e0caf16cdf6d651f388797ee458221954",
+    "files": [
+      "assets/audio/neighbours-05.mp3",
+      "assets/audio/neighbours-05-slow.mp3"
+    ]
+  },
+  {
+    "id": "neighbours-06",
+    "text": "ಸ್ವಲ್ಪ ನಿಧಾನವಾಗಿ ಮಾತಾಡಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "f2c9c88622e51f93f5fed26165e73c7616ee1a7b3c3c113c8b70a8c6e40fa391",
+    "files": [
+      "assets/audio/neighbours-06.mp3",
+      "assets/audio/neighbours-06-slow.mp3"
+    ]
+  },
+  {
+    "id": "neighbours-07",
+    "text": "ನನಗೆ ಅರ್ಥ ಆಗಲಿಲ್ಲ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "8ce1b81f094282f9cb5397b539982e3f36c037ec6f13c126c80edb2f1479ab42",
+    "files": [
+      "assets/audio/neighbours-07.mp3",
+      "assets/audio/neighbours-07-slow.mp3"
+    ]
+  },
+  {
+    "id": "neighbours-08",
+    "text": "ದಯವಿಟ್ಟು ನನಗೆ ಸಹಾಯ ಮಾಡಿ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "ffc86503e64b532d921806dfc1bd06205dd3303eaf6a0896695ef880587064d7",
+    "files": [
+      "assets/audio/neighbours-08.mp3",
+      "assets/audio/neighbours-08-slow.mp3"
+    ]
+  },
+  {
+    "id": "neighbours-09",
+    "text": "ಮತ್ತೆ ಸಿಗೋಣ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "10a5e69cf9a327497cd79164a4258d802582fe0d4e3eafeb07cb6f6b7a866c20",
+    "files": [
+      "assets/audio/neighbours-09.mp3",
+      "assets/audio/neighbours-09-slow.mp3"
+    ]
+  },
+  {
+    "id": "neighbours-10",
+    "text": "ನಾನು ಚೆನ್ನಾಗಿದ್ದೇನೆ.",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "e8d77788a2ec0a650dfaaeb92582061c638d80d9f51dea169e7e408a2033253f",
+    "files": [
+      "assets/audio/neighbours-10.mp3",
+      "assets/audio/neighbours-10-slow.mp3"
+    ]
+  },
+  {
+    "id": "digit-0",
+    "text": "ಸೊನ್ನೆ",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "4bb2b51e373004869b2a01963bbc5c074b449a2743e68ce213d0bc9726744ec0",
+    "files": [
+      "assets/audio/digit-0.mp3",
+      "assets/audio/digit-0-slow.mp3"
+    ]
+  },
+  {
+    "id": "digit-1",
+    "text": "ಒಂದು",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "1378caee5f216cb5d344c0dc01ca52f1d54cb280fe7374feaf6ae8844675b7c3",
+    "files": [
+      "assets/audio/digit-1.mp3",
+      "assets/audio/digit-1-slow.mp3"
+    ]
+  },
+  {
+    "id": "digit-2",
+    "text": "ಎರಡು",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "06990f4c72a6a0318edb2452fa00eec6069fbd85fe33d69b0b61cd61c7063364",
+    "files": [
+      "assets/audio/digit-2.mp3",
+      "assets/audio/digit-2-slow.mp3"
+    ]
+  },
+  {
+    "id": "digit-3",
+    "text": "ಮೂರು",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "1474e80fc3772c6044e23a8bb96d0f59c96f9e18e1110fbc195dff41b4f99d00",
+    "files": [
+      "assets/audio/digit-3.mp3",
+      "assets/audio/digit-3-slow.mp3"
+    ]
+  },
+  {
+    "id": "digit-4",
+    "text": "ನಾಲ್ಕು",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "539b6adba4174d4f744d1a353e6cf75690b07bc6fd41a32f53f1734cf8af94ac",
+    "files": [
+      "assets/audio/digit-4.mp3",
+      "assets/audio/digit-4-slow.mp3"
+    ]
+  },
+  {
+    "id": "digit-5",
+    "text": "ಐದು",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "196ee4cc5bdd597a971b0a10a1b1414fd3179b395e245e9595b94f9c29188575",
+    "files": [
+      "assets/audio/digit-5.mp3",
+      "assets/audio/digit-5-slow.mp3"
+    ]
+  },
+  {
+    "id": "digit-6",
+    "text": "ಆರು",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "fb9336c185a639c4d72efc96968ce71616d2317e3b4e5816ec6aa5ebee46383d",
+    "files": [
+      "assets/audio/digit-6.mp3",
+      "assets/audio/digit-6-slow.mp3"
+    ]
+  },
+  {
+    "id": "digit-7",
+    "text": "ಏಳು",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "e80d48900558fa59287c5b7c05049c8a6450af915c8325f72b4dec373e788ef4",
+    "files": [
+      "assets/audio/digit-7.mp3",
+      "assets/audio/digit-7-slow.mp3"
+    ]
+  },
+  {
+    "id": "digit-8",
+    "text": "ಎಂಟು",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "d32ad2d8d67cfefd216f808d30efdfa3d2c8dbeea87396c11abd9c216909e98d",
+    "files": [
+      "assets/audio/digit-8.mp3",
+      "assets/audio/digit-8-slow.mp3"
+    ]
+  },
+  {
+    "id": "digit-9",
+    "text": "ಒಂಬತ್ತು",
+    "voice": "kn-IN-SapnaNeural",
+    "textSha256": "7ca3543d85da1840baf967c384f41a3b074a995f1607f69de54d15d20fd325f3",
+    "files": [
+      "assets/audio/digit-9.mp3",
+      "assets/audio/digit-9-slow.mp3"
+    ]
+  }
+]
