@@ -16,3 +16,7 @@ Retrieval and spaced practice have evidence in vocabulary learning, though no le
 Free public distribution uses [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages). Static files and pre-generated audio avoid per-player API bills and account setup. Hash routes work under the repository subpath and are shareable.
 
 Deferred: speech recognition and grading, multiplayer, accounts, analytics, paid integrations, and app-store distribution. A native-speaking teacher review would improve content quality, but is not falsely claimed as completed.
+
+## Hosting outcome
+
+GitHub Pages was the original choice. Its enablement was blocked by an invalid local GitHub API credential after repository creation. The source was successfully pushed over SSH. The first public release uses Sites, while the repository retains an opt-in GitHub Pages workflow. No paid provider or custom domain was purchased.

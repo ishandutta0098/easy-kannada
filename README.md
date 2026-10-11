@@ -2,7 +2,7 @@
 
 **A little Kannada. A lot more Bengaluru.**
 
-[Play the game](https://ishandutta0098.github.io/easy-kannada/)
+[Play the game](https://easy-kannada.ishandutta.chatgpt.site/)
 
 A lightweight browser game for English-speaking beginners learning useful Kannada. Catch an auto, order breakfast, shop for groceries, take public transport, receive a delivery, and meet a neighbour. No signup, ads, microphone access, or backend.
 
@@ -20,6 +20,7 @@ A lightweight browser game for English-speaking beginners learning useful Kannad
 Requires Node.js 22+ for checks and Python 3 for the development server. There are no runtime npm dependencies.
 
 ```sh
+npm ci
 npm test
 npm run validate
 npm start
@@ -29,7 +30,9 @@ Open `http://localhost:4173`. For a local subpath check, serve the parent direct
 
 ## Publishing
 
-The `Validate and publish` GitHub Actions workflow runs checks, packages only public application assets into `dist/`, and deploys `main` to GitHub Pages. In repository Settings → Pages, the source must be **GitHub Actions**. Pull requests run validation without deploying.
+The live game is published with Sites at the link above. GitHub retains the source and continuous validation. The original GitHub Pages deployment could not be enabled because the local GitHub API credential became invalid during setup; SSH pushes continued to work.
+
+The `Validate and publish` workflow tests and packages public application assets into `dist/`. To enable the optional GitHub Pages deployment later, select **GitHub Actions** in repository Settings → Pages, set the repository Actions variable `ENABLE_GITHUB_PAGES` to `true`, then rerun the workflow. The expected Pages address is `https://ishandutta0098.github.io/easy-kannada/`. Pull requests never deploy. Sites publication is performed with the Sites source workflow and the identity in `.openai/hosting.json`.
 
 To reproduce the deployment package:
 
@@ -47,7 +50,7 @@ Audio is synthetic, generated with `kn-IN-SapnaNeural`; it is not native-speaker
 
 ## Privacy
 
-Progress stays in `localStorage` in the learner’s browser. Audio and app files use the browser Cache API. No analytics or third-party speech requests run in the game. The first visit requests fonts from Google Fonts. GitHub Pages may retain standard hosting logs. Clearing browser storage removes local progress and downloaded audio.
+Progress stays in `localStorage` in the learner’s browser. Audio and app files use the browser Cache API. No analytics or third-party speech requests run in the game. The first visit requests fonts from Google Fonts. Sites may retain standard hosting logs. Clearing browser storage removes local progress and downloaded audio.
 
 ## Contributing
 
