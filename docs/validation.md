@@ -34,4 +34,9 @@ Physical Safari/iOS and Android-device testing, native share-sheet cancellation,
 - Automated game interaction test chooses Dev, moves with a keyboard, speaks with Ravi, rides all four auto instructions, collects three vegetables, carries breakfast to a table, takes a bus, delivers a parcel, and gives a flower to Anu. All six stamps are verified.
 - Save-and-resume is exercised mid-errand with a held parcel and selected avatar.
 - Original 12 optional quiz missions remain covered by their existing integration tests.
-- Browser checks for the revised published experience are recorded after deployment.
+- Published browser checks: started as Asha, walked to Ravi, played normal and slow Kannada audio (readyState 4, playing, no media error), boarded the auto, drove straight/left/right, stopped, paid, and earned the first stamp.
+- Reloaded midway through the auto ride and resumed at the saved turn. The optional quiz progress from version 1 was preserved.
+- Met Lakshmi, heard all three opening phrases, received a bag and collected the first vegetable by walking to it.
+- Phone viewport 360 × 800: no horizontal overflow, readable conversation cards, direction pad and action control present. Verified viewport does not scroll internally and the objective stays fixed above the camera.
+- Updated asset URLs and shell cache so prior offline assets do not pin returning visitors to the quiz interface.
+- Automated test also exercises the touch direction pad and checks that auto direction controls disappear after disembarking.

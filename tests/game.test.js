@@ -16,9 +16,10 @@ test('a character can walk, ride the auto, collect objects and complete all six 
  function guide(){click('#guide');frames(500);}
  click('[data-avatar="dev"]');click('#start-adventure');frames(1);
  const before=Number(root.querySelector('#player').dataset.x);window.dispatchEvent(new window.KeyboardEvent('keydown',{key:'d'}));frames(10);window.dispatchEvent(new window.KeyboardEvent('keyup',{key:'d'}));assert.ok(Number(root.querySelector('#player').dataset.x)>before);
+ const pad=root.querySelector('[data-direction=left]');const touchBefore=Number(root.querySelector('#player').dataset.x);pad.dispatchEvent(new window.PointerEvent('pointerdown',{bubbles:true,pointerId:1}));frames(6);pad.dispatchEvent(new window.PointerEvent('pointerup',{bubbles:true,pointerId:1}));assert.ok(Number(root.querySelector('#player').dataset.x)<touchBefore,'touch pad moves the character');
  guide();assert.match(root.querySelector('.dialogue-person').textContent,/Ravi/);conversation();assert.ok(root.querySelector('#ride-action'));
  const positions=[];for(let i=0;i<4;i++){click('#ride-action');frames(160);positions.push([Number(root.querySelector('#player').dataset.x),Number(root.querySelector('#player').dataset.y)]);}
- assert.ok(positions[1][1]<positions[0][1],'left turn travels north');assert.ok(positions[2][0]>positions[1][0],'right turn travels east');conversation();assert.equal(root.querySelector('#stamp-count').textContent,'1 / 6');
+ assert.ok(positions[1][1]<positions[0][1],'left turn travels north');assert.ok(positions[2][0]>positions[1][0],'right turn travels east');conversation();assert.equal(root.querySelector('#stamp-count').textContent,'1 / 6');assert.equal(root.querySelector('#ride-action'),null,'ride directions disappear when disembarking');
  guide();conversation();for(let i=0;i<3;i++)guide();guide();conversation();assert.equal(root.querySelector('#stamp-count').textContent,'2 / 6',root.querySelector('#objective-text').textContent+' '+window.localStorage.getItem('easy-kannada-adventure-v2'));
  guide();conversation();guide();assert.equal(root.querySelector('#held-item').textContent,'☕');guide();conversation();assert.equal(root.querySelector('#stamp-count').textContent,'3 / 6');
  guide();conversation();guide();frames(180);conversation();assert.equal(root.querySelector('#stamp-count').textContent,'4 / 6');
