@@ -11,7 +11,7 @@ const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'
 let storage;try{storage=window.localStorage;}catch{storage=null;}
 let state=readState(storage), phrases=[], digits=[], session=null, toastTimer, audioSeq=0, filter='all', query='', favouriteOnly=false;
 const seenCount=()=>Object.keys(state.phrases).length;
-function toast(s){$('#toast').textContent=s;$('#toast').classList.add('show');clearTimeout(toastTimer);toastTimer=setTimeout(()=>$('#toast').classList.remove('show'),4500);}
+function toast(s){$('#toast').textContent=s;$('#toast').classList.add('show');clearTimeout(toastTimer);toastTimer=setTimeout(()=>$('#toast')?.classList.remove('show'),4500);}
 function persist(){if(!saveState(storage,state)&&!window.warnedStorage){window.warnedStorage=true;toast('Progress is kept for this visit. Browser storage is unavailable.');}header();}
 function header(){const done=Object.keys(state.missions).length;$('#header-progress').textContent=`✦ ${done} / 12 missions`;document.querySelectorAll('[data-nav]').forEach(a=>a.classList.toggle('active',a.dataset.nav===(location.hash.split('/')[0].slice(1)||'home')));}
 function stopAudio(){audioSeq++;voice.pause();voice.removeAttribute('src');voice.load();document.querySelectorAll('[data-audio]').forEach(b=>{b.classList.remove('playing');b.setAttribute('aria-pressed','false');});}

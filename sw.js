@@ -1,4 +1,4 @@
-const SHELL='easy-kannada-shell-v1',AUDIO='easy-kannada-audio-v1';
+const SHELL='easy-kannada-shell-v2',AUDIO='easy-kannada-audio-v1';
 const ROOT=new URL('./',self.location).href;
 const FILES=['./','index.html','style.css','app.js','engine.js','data/phrases.json','data/digits.json','assets/icon.svg','assets/bengaluru.svg','manifest.webmanifest'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(SHELL).then(c=>c.addAll(FILES.map(f=>new URL(f,ROOT).href))).then(()=>self.skipWaiting()));});
