@@ -1,6 +1,6 @@
 # Easy Kannada
 
-**A little Kannada. A lot more Bengaluru.**
+**A playable first day in Bengaluru.**
 
 [Play the game](https://easy-kannada.ishandutta.chatgpt.site/)
 
@@ -8,12 +8,15 @@ A lightweight browser game for English-speaking beginners learning useful Kannad
 
 ## What’s inside
 
-- Six scenarios, 12 short missions, 60 phrases, and digits 0–9.
-- Kannada script, Roman pronunciation, English meaning, and usage notes.
-- 140 bundled synthetic audio clips: normal and slow for every phrase and digit.
-- Listen-and-repeat cards, conversation choices, listening recall, and sentence assembly.
-- Local progress, favourites, spaced daily review, sharing, and downloadable scorecards.
-- Offline app shell and explicit scenario audio downloads.
+- Choose Asha or Dev and explore an illustrated neighbourhood with a controllable character.
+- WASD / arrow keys, touch direction pad, tap-to-walk, and a whole-neighbourhood map.
+- Six connected errands: ride an auto, collect vegetables, carry breakfast to a table, catch a bus, bring a parcel home, and make a friend in the park.
+- Kannada phrases trigger actions: the auto goes straight, turns left and right, and stops as you speak. Conversations include Kannada script, Roman pronunciation, English meaning, and normal/slow audio.
+- Collect objects, earn passport stamps, and resume your character’s position and current errand automatically. No timer or lives.
+- Pocket phrasebook with 60 phrases, digits 0–9, favourites, and optional daily memory practice.
+- 140 bundled synthetic audio clips, offline app shell, and explicit scenario audio downloads.
+
+The main game is a small exploration adventure. The original 12 quiz missions remain optional practice at `#scenario/auto` and equivalent scenario routes.
 
 ## Run locally
 
@@ -53,6 +56,8 @@ Audio is synthetic, generated with `kn-IN-SapnaNeural`; it is not native-speaker
 Progress stays in `localStorage` in the learner’s browser. Audio and app files use the browser Cache API. No analytics or third-party speech requests run in the game. The first visit requests fonts from Google Fonts. Sites may retain standard hosting logs. Clearing browser storage removes local progress and downloaded audio.
 
 ## Contributing
+
+World geometry, errands and save validation live in `world.js`; character controls, conversations and world effects live in `game.js`; `game.css` styles the adventure. The original map is `assets/town.svg`.
 
 Content lives in `data/phrases.json`; each phrase has an ID, scenario, script, Roman spelling, meaning, context, hint, source links, and assembly chunks. Keep IDs stable. Regenerate affected audio and its manifest whenever Kannada text changes. Run validation and tests before a pull request.
 

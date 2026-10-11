@@ -6,7 +6,7 @@
 - Happy DOM interaction tests complete all 12 missions, including listening and assembly rounds; exercise incorrect answers, hints, favourites, search, daily review, invalid routes and reset.
 - Content validation checks 60 unique phrases, ten per scenario, ten digits, assembly reconstruction, source URLs, 140 nonempty audio files and text hashes matching the audio manifest.
 - All 140 MP3s were decoded with ffprobe without errors.
-- Initial application HTML/CSS/JavaScript/content/illustration assets total approximately 24 KB compressed, excluding external fonts and lazily loaded audio. All bundled audio totals approximately 2.4 MB on disk.
+- Initial application HTML/CSS/JavaScript/content/illustration assets total approximately 44 KB compressed, excluding external fonts and lazily loaded audio. All bundled audio totals approximately 2.4 MB on disk.
 
 ## Scope of verification
 
@@ -27,3 +27,11 @@ Live origin: https://easy-kannada.ishandutta.chatgpt.site/
 - Sites deployment succeeded; GitHub Pages deployment remains opt-in because the local GitHub API credential expired during setup. No authentication or protection settings were weakened to work around it.
 
 Physical Safari/iOS and Android-device testing, native share-sheet cancellation, and human linguistic review remain outside the verified checks. All 12 missions are covered by automated DOM tests, with one mission additionally completed in the real published browser UI.
+
+## Character adventure — 12 October 2026
+
+- Added collision and pathfinding tests across every errand and pickup destination.
+- Automated game interaction test chooses Dev, moves with a keyboard, speaks with Ravi, rides all four auto instructions, collects three vegetables, carries breakfast to a table, takes a bus, delivers a parcel, and gives a flower to Anu. All six stamps are verified.
+- Save-and-resume is exercised mid-errand with a held parcel and selected avatar.
+- Original 12 optional quiz missions remain covered by their existing integration tests.
+- Browser checks for the revised published experience are recorded after deployment.
